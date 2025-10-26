@@ -1,4 +1,4 @@
-# fumisasaki
+# Fumi-sasa
 # 👋 Hi, I'm Fumi Sasaki  
 Incoming MA student in Econometrics at Yokohama National University | Data Analyst in Retail Marketing  
 
